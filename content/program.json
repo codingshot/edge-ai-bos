@@ -1,0 +1,263 @@
+[
+	{
+		"name": "Edge Intelligence Summit (SF)",
+		"date": "September 01, 2023",
+		"time": "09:00am - 6:00pm PT"
+		"schedule": [
+			{
+				"name": "Track I: Computing Architectures and Frameworks",
+				"activities": [
+					{
+						"name": "Breakfast & Networking",
+						"start_time": "09:00 AM",
+						"end_time": "10:00 AM",
+						"topic": "",
+						"speakers": []
+					},
+					{
+						"name": "Event Intro",
+						"start_time": "10:00 AM",
+						"end_time": "10:15 AM",
+						"topic": "Welcome Address & Intro to All Sponsors",
+						"speakers": [
+							"Edge Team: Intro All Co-Sponsors"
+						]
+					},
+					{
+						"name": "VC Fireside Chat",
+						"start_time": "10:15 AM",
+						"end_time": "10:45 AM",
+						"topic": "A new \"World\" View",
+						"speakers": [
+							"CoinFund: Worldcoin"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "10:45 AM",
+						"end_time": "11:00 AM",
+						"topic": "History of Computing & Next Frontier",
+						"speakers": [
+							"Nvidia or Google TPU"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "11:00 AM",
+						"end_time": "11:15 AM",
+						"topic": "History of Computing & Next Frontier",
+						"speakers": [
+							"Crueso",
+							"Aleo",
+							"Ulvetanna",
+							"Cysic"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "11:15 AM",
+						"end_time": "11:30 AM",
+						"topic": "From Web3 to Web5",
+						"speakers": [
+							"TBD (Block'ex-Square)"
+						]
+					},
+					{
+						"name": "Opening Keynote",
+						"start_time": "11:30 AM",
+						"end_time": "12:00 PM",
+						"topic": "Data-Centric AI",
+						"speakers": [
+							"Andrew Ng",
+							"Eric Schmidt",
+							"DropBox CEO"
+						]
+					},
+					{
+						"name": "Lunch",
+						"start_time": "12:00 PM",
+						"end_time": "1:00 PM",
+						"topic": "",
+						"speakers": []
+					}
+				]
+			},
+			{
+				"name": "Track II: Models, Learning and Inferencing",
+				"activities": [
+					{
+						"name": "VC Fireside Chat",
+						"start_time": "01:00 PM",
+						"end_time": "01:30 PM",
+						"topic": "Open-sourcing the Future of AI",
+						"speakers": [
+							"Sequoia: Hugging Face"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "01:30 PM",
+						"end_time": "01:45 PM",
+						"topic": "Model Evolution / Game of Thrones of AI LLMs",
+						"speakers": [
+							"X",
+							"Stability AI",
+							"Llama2"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "01:45 PM",
+						"end_time": "02:00 PM",
+						"topic": "MPC-based Machine Learning/ Private Inferencing",
+						"speakers": [
+							"FedML",
+							"Iron",
+							"MPCFormers",
+							"Puma"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "02:00 PM",
+						"end_time": "02:15 PM",
+						"topic": "Hivemind: Collaborative Training",
+						"speakers": [
+							"Lighting AI"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "02:15 PM",
+						"end_time": "02:30 PM",
+						"topic": "TBA",
+						"speakers": [
+							"Origin System"
+						]
+					},
+					{
+						"name": "Industry Panel",
+						"start_time": "02:30 PM",
+						"end_time": "03:00 PM",
+						"topic": "TBA (Origin Panel)",
+						"speakers": [
+							"Origina",
+							"Gencyn",
+							"Together"
+						]
+					},
+					{
+						"name": "Coffee Break",
+						"start_time": "03:00 PM",
+						"end_time": "03:15 PM",
+						"topic": "Coffee Break",
+						"speakers": []
+					}
+				]
+			},
+			{
+				"name": "Track III: Cryptography, Privacy, and Humanity in the Age of AI",
+				"activities": [
+					{
+						"name": "Researcher Recognition",
+						"start_time": "03:15 PM",
+						"end_time": "03:45 PM",
+						"topic": "ZKP's Today and Tomorrow / Trust in ML",
+						"speakers": [
+							"Shafi Goldwasser"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "03:45 PM",
+						"end_time": "04:00 PM",
+						"topic": "Applications of ZK in Machine Learning",
+						"speakers": [
+							"Yi Sun",
+							"Daniel Kang",
+							"Jason Morton (ezkl)"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "04:00 PM",
+						"end_time": "04:15 PM",
+						"topic": "People Shoun't Care About Privacy: FHE in ML",
+						"speakers": [
+							"Zama"
+						]
+					},
+					{
+						"name": "Lightning Talk / Workshop",
+						"start_time": "04:15 PM",
+						"end_time": "04:30 PM",
+						"topic": "Self-Sovereign Identity: Where is your second life? (Worldcoin Panel)",
+						"speakers": [
+							"Personae Lab",
+							"SoulBound",
+							"Worldcoin (Proof of Humanity)",
+							"Bright ID",
+							"IDena",
+							"Circles",
+							"Gitcoin",
+							"Sismo",
+							"Fractal"
+						]
+					},
+					{
+						"name": "Industry Panel",
+						"start_time": "04:30 PM",
+						"end_time": "05:00 PM",
+						"topic": "DeSci: Learned Society",
+						"speakers": [
+							"Edge",
+							"Molecule",
+							"Doc AI",
+							"DeSci Foundation",
+							"VitaDAO"
+						]
+					},
+					{
+						"name": "Debate",
+						"start_time": "05:00 PM",
+						"end_time": "05:30 PM",
+						"topic": "If an AI attains collective superintelligence, should it have human rights? Or should we define humanity based on limitations rather than capabilities?",
+						"speakers": [
+							"TBD"
+						]
+					},
+					{
+						"name": "Closing Keynote",
+						"start_time": "05:30 PM",
+						"end_time": "06:00 PM",
+						"topic": "Biometric Proof of personhood",
+						"speakers": [
+							"Vitalik"
+						]
+					},
+					{
+						"name": "Horderves & Drinks",
+						"start_time": "06:00 PM",
+						"end_time": "07:00 PM",
+						"topic": "Happy Hour",
+						"speakers": []
+					},
+					{
+						"name": "VIP Dinner",
+						"start_time": "07:30 PM",
+						"end_time": "09:30 PM",
+						"topic": "",
+						"speakers": []
+					},
+					{
+						"name": "Party",
+						"start_time": "10:00 PM",
+						"end_time": "12:00 PM",
+						"topic": "",
+						"speakers": []
+					}
+				]
+			},
+		]
+	}
+]
