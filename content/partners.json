@@ -1,1 +1,17 @@
-{}
+[
+  {
+    "image":
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1006,h=1120,fit=crop/mv05earg5BUBeP0L/image-AMqqW4bBVQS86Xr2.png",
+    "name": "Computing Architecture & Frameworks"
+  },
+  {
+    "image":
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1006,h=1120,fit=crop/mv05earg5BUBeP0L/keszthelyi-timi-JQVX8fkGiC4-unsplash.jpg",
+    "name": "Models, Learning, and Inferencing"
+  },
+  {
+    "image":
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1006,h=1120,fit=crop/mv05earg5BUBeP0L/justin-schuler-HW_85uPRC1I-unsplash.jpg",
+    "name": "Cryptography, Privacy, and Humanity in the Age of AI"
+  }
+]
