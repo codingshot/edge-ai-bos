@@ -259,5 +259,202 @@
 				]
 			}
 		]
-	}
+	},
+	{
+        "name": "Edge Intelligence Summit (NY)",
+        "date": "September 19, 2023",
+        "time": "09:00am - 6:00pm PT",
+        "schedule": [
+            {
+                "name": "Track I: AI Economy, Marketplace, Governance",
+                "activities": [
+                    {
+                        "name": "Breakfast and Networking",
+                        "start_time": "9:00 AM",
+                        "end_time": "10:00 AM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Event intro",
+                        "start_time": "10:00 AM",
+                        "end_time": "10:15 AM",
+                        "topic": "Welcome Addresss & Intro to All Sponsors",
+                        "speakers": ["Edge Team: Intro All Co-Sponsors"]
+                    },
+                    {
+                        "name": "VC Fireside Chat",
+                        "start_time": "10:15 AM",
+                        "end_time": "10:45 AM",
+                        "topic": "RLHF",
+                        "speakers": ["Multicoin", "Variant", "Fabric"]
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "10:45 AM",
+                        "end_time": "11:00 AM",
+                        "topic": "Model & Agent Evaluation",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "11:00 AM",
+                        "end_time": "11:15 AM",
+                        "topic": "Do language model possess knowlege (soundness)?",
+                        "speakers": ["Tarun & Henry Prior"]
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "11:15 AM",
+                        "end_time": "11:30 AM",
+                        "topic": "Computer Governance",
+                        "speakers": ["Yo Shavit"]
+                    },
+                    {
+                        "name": "Opening Keynote",
+                        "start_time": "11:30 AM",
+                        "end_time": "12:00 PM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lunch",
+                        "start_time": "12:00 PM",
+                        "end_time": "1:00 PM",
+                        "topic": "",
+                        "speakers": []
+                    }
+                ]
+            },
+            {
+                "name": "Track II: Creativitive Agent and Vertical Applications",
+                "activities": [
+                    {
+                        "name": "VC Fireside Chat",
+                        "start_time": "1:00 PM",
+                        "end_time": "1:30 PM",
+                        "topic": "Agent Behind the Scenes",
+                        "speakers": ["a 16z (Charactor AI + Eleven Lab + Inceptive)"]
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "1:30 PM",
+                        "end_time": "1:45 PM",
+                        "topic": "Intelligent NFT",
+                        "speakers": ["Althea AI"]
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "1:45 PM",
+                        "end_time": "2:00 PM",
+                        "topic": "Cinema4D on Distributed System",
+                        "speakers": ["Render Network"]
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "2:00 PM",
+                        "end_time": "2:15 PM",
+                        "topic": "Gaming: AI NPCs",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "2:15 PM",
+                        "end_time": "2:30 PM",
+                        "topic": "AI x Music",
+                        "speakers": ["SonyCSL"]
+                    },
+                    {
+                        "name": "Industry Panel",
+                        "start_time": "2:30 PM",
+                        "end_time": "3:00 PM",
+                        "topic": "DeFi x ML",
+                        "speakers": ["Tarun", "Keone", "Omar"]
+                    },
+                    {
+                        "name": "Coffee Break",
+                        "start_time": "3:00 PM",
+                        "end_time": "3:15 PM",
+                        "topic": "Coffee Break",
+                        "speakers": []
+                    }
+                ]
+            },
+            {
+                "name": "Track III: Alignment, Security, Deepfake, Policy",
+                "activities": [
+                    {
+                        "name": "Researcher Recognition",
+                        "start_time": "3:15 PM",
+                        "end_time": "3:45 PM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "3:45 PM",
+                        "end_time": "4:00 PM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "4:00 PM",
+                        "end_time": "4:15 PM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Lightning Talk / Workshop",
+                        "start_time": "4:15 PM",
+                        "end_time": "4:30 PM",
+                        "topic": "From UGC to AGC (AI-generated-cotent)",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Industry Panel",
+                        "start_time": "4:30 PM",
+                        "end_time": "5:00 PM",
+                        "topic": "Copyright & Licensing & Watermark & Provenance",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Debate",
+                        "start_time": "5:00 PM",
+                        "end_time": "5:30 PM",
+                        "topic": "",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Closing Keynote",
+                        "start_time": "5:30 PM",
+                        "end_time": "6:00 PM",
+                        "topic": "Alignment Theory",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Horderves & Drinks",
+                        "start_time": "6:00 PM",
+                        "end_time": "7:00 PM",
+                        "topic": "Happy Hour",
+                        "speakers": []
+                    },
+                    {
+                        "name": "VIP Dinner",
+                        "start_time": "7:30 PM",
+                        "end_time": "9:30 PM",
+                        "topic": "Dinner with Speakers & Sponsors",
+                        "speakers": []
+                    },
+                    {
+                        "name": "Party",
+                        "start_time": "10:00 PM",
+                        "end_time": "12:00 PM",
+                        "topic": "",
+                        "speakers": []
+                    }
+                ]
+            }
+        ]
+    }
 ]
